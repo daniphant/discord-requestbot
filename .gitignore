@@ -1,0 +1,11 @@
+# Node_modules
+
+node_modules/**/*
+
+# Eslint and Prettier files
+./.prettierrc
+./.eslintrc.json
+
+# Yarn and Npm lock files
+yarn.lock
+package-lock.json
