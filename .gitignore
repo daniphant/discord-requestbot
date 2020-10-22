@@ -9,8 +9,11 @@ yarn-error.log*
 node_modules/
 jspm_packages/
 
+# Production folder
+prod/
+
 # Bot details file
-src/config/details.js
+# src/config/details.js
 
 # Optional eslint cache
 .eslintcache
